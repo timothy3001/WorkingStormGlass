@@ -1,0 +1,1 @@
+This is the code for the working storm glass. It aims to show weather forecast by utilizing different color themes which light up the actual storm glass.
